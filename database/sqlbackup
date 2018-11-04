@@ -1,0 +1,7 @@
+update `accounts` set `startDr` = 0, `startCr`=0, `currBal` = 0, `dr00` = 0, `cr00` = 0,
+`dr01` = 0, `cr01` = 0, `dr02` = 0, `cr02` = 0, `dr03` = 0, `cr03` = 0, `dr04` = 0, `cr04`= 0,
+`dr05` = 0 , `cr05` = 0, `dr06` = 0, `cr06` = 0, `dr07` = 0 , `cr07` = 0, `dr08` = 0,
+`cr08` = 0, `dr09`= 0, `cr09` = 0, `dr10` = 0, `cr10` = 0, `dr11` = 0, `cr11`= 0, `dr12` = 0, `cr12` = 0,
+opnPost = false;
+
+

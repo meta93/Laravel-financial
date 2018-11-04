@@ -1,0 +1,19 @@
+to get executed query
+
+open
+Illuminate\Database\Connection.php
+
+set
+protected $loggingQueries = true;
+
+ dd(DB::getQueryLog());
+
+
+ link datatable row open with modal
+
+ http://techqa.info/programming/question/42190790/passing-a-specific-row-of-data-to-a-modal-(laravel-datatables-plugin)
+
+
+ sudo php artisan clear-compiled
+ sudo composer dump-autoload
+ sudo php artisan optimize

@@ -1,0 +1,36 @@
+table.order-bank {
+    width:100%;
+    margin:0;
+}
+table.order-bank th{
+    padding:5px;
+}
+table.order-bank td {
+    padding:5px;
+}
+tr.row-line th {
+    border-bottom-width:1px;
+    border-top-width:1px;
+    border-right-width:1px;
+    border-left-width:1px;
+}
+tr.row-line td {
+    border-bottom:1px solid red;
+}
+th.first-cell {
+    text-align:left;
+    border:1px solid red;
+    color:blue;
+}
+div.order-field {
+    width:100%;
+    backgroundr: #ffdab9;
+    border-bottom:1px dashed black;
+    color:black;
+}
+div.blank-space {
+    width:100%;
+    height: 50%;
+    margin-bottom: 100px;
+    line-height: 10%;
+}
